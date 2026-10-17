@@ -1,0 +1,266 @@
+[
+  {
+    "repo": "akaunting/akaunting",
+    "category": "accounting",
+    "description": "Free online accounting software for small businesses.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "apache/fineract",
+    "category": "accounting",
+    "description": "Core banking and microfinance platform.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "bigcapitalhq/bigcapital",
+    "category": "accounting",
+    "description": "Open-source accounting and inventory software.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "frappe/erpnext",
+    "category": "accounting",
+    "description": "Open-source ERP with accounting, inventory and HR.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "inventree/InvenTree",
+    "category": "accounting",
+    "description": "Open-source inventory management system.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ledger/ledger",
+    "category": "accounting",
+    "description": "Command-line double-entry accounting tool.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-22"
+  },
+  {
+    "repo": "ledgersmb/LedgerSMB",
+    "category": "accounting",
+    "description": "Open-source accounting and ERP for small businesses.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "odoo/odoo",
+    "category": "accounting",
+    "description": "Open-source business apps including accounting and invoicing.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "btcpayserver/btcpayserver",
+    "category": "bank",
+    "description": "Self-hosted Bitcoin payment processor with no fees.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jsvine/pdfplumber",
+    "category": "bank",
+    "description": "Extract text and tables from PDFs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "category": "bank",
+    "description": "Open-source payments switch that routes across processors.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "plaid/plaid-python",
+    "category": "bank",
+    "description": "Official Python library for the Plaid API. The service behind it is paid.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-02"
+  },
+  {
+    "repo": "stripe/stripe-node",
+    "category": "bank",
+    "description": "Official Stripe library for Node.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "stripe/stripe-python",
+    "category": "bank",
+    "description": "Official Stripe library for Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "paperless-ngx/paperless-ngx",
+    "category": "expenses",
+    "description": "Document management system that scans and indexes your papers.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "spliit-app/spliit",
+    "category": "expenses",
+    "description": "Free and open-source way to split expenses with friends.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "tesseract-ocr/tesseract",
+    "category": "expenses",
+    "description": "Open-source OCR engine, useful for receipt scanning.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "ghostfolio/ghostfolio",
+    "category": "invest",
+    "description": "Open-source wealth management software for tracking stocks, ETFs and crypto.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openbq-org/OpenBB",
+    "category": "invest",
+    "description": "Open data platform for analysts, quants and AI agents.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ranaroussi/yfinance",
+    "category": "invest",
+    "description": "Download Yahoo Finance data in Python. For personal use, check Yahoo's terms.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "wealthfolio/wealthfolio",
+    "category": "invest",
+    "description": "Private desktop investment tracker.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "wealthfolio/wealthfolio",
+    "category": "invest",
+    "description": "Private, desktop investment tracker.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "getlago/lago",
+    "category": "invoice",
+    "description": "Open-source usage-based billing and metering.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "invoiceninja/invoiceninja",
+    "category": "invoice",
+    "description": "Invoicing, quotes and payments for small businesses.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "InvoiceShelf/InvoiceShelf",
+    "category": "invoice",
+    "description": "Open-source invoicing app for freelancers and small businesses.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "killbill/killbill",
+    "category": "invoice",
+    "description": "Open-source subscription billing and payments platform.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "actualbudget/actual",
+    "category": "personal",
+    "description": "Local-first personal finance app with envelope budgeting.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "firefly-iii/firefly-iii",
+    "category": "personal",
+    "description": "Free and open-source personal finance manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "beancount/beancount",
+    "category": "plaintext",
+    "description": "Double-entry accounting from text files.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-23"
+  },
+  {
+    "repo": "beancount/beangulp",
+    "category": "plaintext",
+    "description": "Importers framework for Beancount.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-30"
+  },
+  {
+    "repo": "beancount/fava",
+    "category": "plaintext",
+    "description": "Web interface for Beancount.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-07"
+  },
+  {
+    "repo": "hledgerorg/hledger",
+    "category": "plaintext",
+    "description": "Robust, friendly plain text accounting software.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openfisca/openfisca-core",
+    "category": "tax",
+    "description": "Engine for tax and benefit rules as code.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  }
+]

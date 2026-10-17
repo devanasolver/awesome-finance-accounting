@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "LEDGER",
+  "INVOICE",
+  "BUDGET",
+  "TAX",
+  "BANK",
+  "PAYROLL",
+  "RECEIPT",
+  "CASHFLOW",
+  "EXPENSE",
+  "DEBIT",
+  "CREDIT",
+  "REPORT",
+  "FX",
+  "RECONCILE",
+  "QUOTE",
+  "BILL"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Finance and Accounting",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "ACCOUNTING  |  INVOICING  |  BUDGETS",
+ "sub2": "PAYMENTS  |  TAX  |  PERSONAL",
+ "foot": "Open-source finance software, each checked for license and activity"
+}
