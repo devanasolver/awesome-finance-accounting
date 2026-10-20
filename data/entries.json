@@ -262,5 +262,13 @@
     "license": "AGPL-3.0",
     "verified": "2026-10-18",
     "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "stockavg/capital-gains-toolkit",
+    "category": "invest",
+    "description": "Python library for cost basis, FIFO lot matching, the 61-day wash-sale window, long-term capital gains bands and the Schedule D carryover worksheet; no dependencies. (by the author)",
+    "license": "MIT",
+    "verified": "2026-10-20",
+    "last_commit": "2026-10-20"
   }
 ]

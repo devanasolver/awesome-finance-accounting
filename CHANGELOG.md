@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added stockavg/capital-gains-toolkit to invest.
+
 ## 2026-10-18
 
 - First version: 33 verified repos in 8 categories.
