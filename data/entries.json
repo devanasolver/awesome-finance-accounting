@@ -262,5 +262,13 @@
     "license": "AGPL-3.0",
     "verified": "2026-10-18",
     "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "laicailcll/bookkeeping-scope-toolkit",
+    "category": "accounting",
+    "description": "Catch-up bookkeeping checklist, CSV templates, and an offline quote comparison calculator (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-20",
+    "last_commit": "2026-11-20"
   }
 ]
